@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Financial Task Design and Synthetic Data Engineering"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "When a synthetic financial case changes one number, is its label still right? The article, its PDF, full derivations and code that recomputes every figure."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/RESEARCH-Financial-Task-Design-and-Synthetic-Data-Engineering"
+url: "https://www.theodoreoy.com/experience/financial-task-design-and-synthetic-data-engineering/"
+keywords:
+  - "synthetic data"
+  - "financial data"
+  - "preference data"
+  - "RLHF"
+  - "LLM evaluation"
+  - "data engineering"
+preferred-citation:
+  type: article
+  title: "Financial Task Design and Synthetic Data Engineering"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://www.theodoreoy.com/experience/financial-task-design-and-synthetic-data-engineering/"
+  institution:
+    name: "Duke University"
